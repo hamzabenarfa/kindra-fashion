@@ -1,0 +1,134 @@
+export const MenCollectionData = [
+  {
+    id: 1,
+    name: "Long sleeves blouse",
+    price: 129.0,
+    currency: "TND",
+    category: "t-shirt",
+    section: "men",
+    slug: "blue-polo",
+    href: "men/t-shirt/blue-polo",
+    img: "/men-page/prev.png",
+    variants: [
+      {
+        color: "#E8D4A9",
+        colorName: "Beige",
+        images: [
+          "/men-page/img-men10.jpg",
+          "/men-page/img-men10.jpg",
+          "/men-page/img-men10.jpg",
+          "/men-page/img-men10.jpg",
+        ],
+      },
+      {
+        color: "#23395d",
+        colorName: "dark blue",
+        images: [
+          "/men-page/carousel/2/men-shirtblue1.webp",
+          "/men-page/carousel/2/men-shirtblue2.webp",
+          "/men-page/carousel/2/men-shirtblue3.webp",
+          "/men-page/carousel/2/men-shirtblue4.webp",
+        ],
+      },
+    ],
+  },
+  {
+    id: 2,
+    name: "Polo T-shirt",
+    price: 79.0,
+    currency: "TND",
+    category: "t-shirt",
+    section: "men",
+    slug: "blue-polo",
+    href: "men/t-shirt/blue-polo",
+    img: "/men-page/prev.png",
+    variants: [
+      {
+        color: "#23395d",
+        colorName: "dark blue",
+        images: [
+          "/men-page/carousel/2/men-shirtblue1.webp",
+          "/men-page/carousel/2/men-shirtblue2.webp",
+          "/men-page/carousel/2/men-shirtblue3.webp",
+          "/men-page/carousel/2/men-shirtblue4.webp",
+        ],
+      },
+      {
+        color: "#E8D4A9",
+        colorName: "Beige",
+        images: [
+          "/men-page/carousel/1/men-shirt1.webp",
+          "/men-page/carousel/1/men-shirt2.jpg",
+          "/men-page/carousel/1/men-shirt3.webp",
+          "/men-page/carousel/1/men-shirt4.webp",
+        ],
+      },
+    ],
+  },
+  {
+    id: 3,
+    name: "Cotton T-shirt",
+    price: 99.0,
+    currency: "TND",
+    category: "shoes",
+    section: "women",
+    slug: "ankel-boots",
+    href: "women/shoes/ankel-boots",
+    img: "/women-page/Shoes2/SneakerTransparentBG.png",
+    variants: [
+      {
+        color: "#E8D4A9",
+        colorName: "Beige",
+        images: [
+          "/men-page/img-men11.jpg",
+          "/men-page/img-men11.jpg",
+          "/men-page/img-men11.jpg",
+          "/men-page/img-men11.jpg",
+        ],
+      },
+      {
+        color: "#23395d",
+        colorName: "dark blue",
+        images: [
+          "/men-page/carousel/2/men-shirtblue1.webp",
+          "/men-page/carousel/2/men-shirtblue2.webp",
+          "/men-page/carousel/2/men-shirtblue3.webp",
+          "/men-page/carousel/2/men-shirtblue4.webp",
+        ],
+      },
+    ],
+  },
+  {
+    id: 4,
+    name: "Short sleeves buttoned blouse",
+    price: 69.0,
+    currency: "TND",
+    category: "shoes",
+    section: "women",
+    slug: "ankel-boots",
+    href: "women/shoes/ankel-boots",
+    img: "/women-page/Shoes2/SneakerTransparentBG.png",
+    variants: [
+      {
+        color: "#E8D4A9",
+        colorName: "Beige",
+        images: [
+          "/men-page/img-men8.webp",
+          "/men-page/img-men8.webp",
+          "/men-page/img-men8.webp",
+          "/men-page/img-men8.webp",
+        ],
+      },
+      {
+        color: "#23395d",
+        colorName: "dark blue",
+        images: [
+          "/men-page/carousel/2/men-shirtblue1.webp",
+          "/men-page/carousel/2/men-shirtblue2.webp",
+          "/men-page/carousel/2/men-shirtblue3.webp",
+          "/men-page/carousel/2/men-shirtblue4.webp",
+        ],
+      },
+    ],
+  },
+];

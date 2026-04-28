@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private routes
+Disallow: /admin
+Disallow: /api/
+Disallow: /account/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /orders/
+
+# Allow specific API endpoints that should be crawled
+Allow: /api/og
+
+# Sitemaps
+Sitemap: {{SITEMAP_URL}}/sitemap.xml
